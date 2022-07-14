@@ -1,0 +1,20 @@
+.bodyfilm1{
+    width: 400px;
+    height: 600px;
+    margin-bottom: 5%;
+    margin-right: 10%;
+    border: 4px solid black;
+    transform: rotate(-8deg);
+    background-color: aliceblue;
+
+}
+
+.bodyfilm2{
+    width: 400px;
+    height: 600px;
+    margin-bottom: 5%;
+    border: 4px solid black;
+    transform: rotate(8deg);
+    background-color: aliceblue;
+
+}
